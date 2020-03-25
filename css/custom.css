@@ -1,1 +1,8 @@
 /* your styles go here */
+
+.img-portfolio-custom {
+    width: 350px;
+    height: 233px;
+    background: white;
+    border: 2px solid #ccc;
+}
